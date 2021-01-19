@@ -21,9 +21,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patriciahoc&layout=compact)]()
 
-<div align="left" width="600" height="200">
-  <img src="./octocat-removebg-preview.png" alt="Octocat">
-</div>
+
+ <img align="right" width="500" height="400" src="./octocat-removebg-preview.png" alt="Octocat">
+
 
 
 
