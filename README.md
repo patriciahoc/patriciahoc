@@ -1,4 +1,4 @@
-# Olá! Bem vinde ao meu perfil 🤙🏼
+# Olá! Bem vinda e Bem vindo ao meu perfil 🤙🏼
 
 ## 🚀 Um pouco sobre mim:
 🎓 Bacharel em Serviço Social <br>
