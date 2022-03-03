@@ -20,5 +20,5 @@
 
 
 
- <img align="right" width="250" height="200" src="./octocat-removebg-preview.png" alt="Octocat">
+ <img align="right" width="250" height="200" src="./octocat.png" alt="Octocat">
 
