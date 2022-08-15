@@ -20,5 +20,5 @@
 
 
 
- <img src="./octocat.png" alt="Octocat">
+ <img align="left" src="./octocat.png" alt="Octocat">
 
