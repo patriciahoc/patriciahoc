@@ -20,5 +20,5 @@
 
 
 
- <img src="./octocat_3.png" alt="Octocat">
+ <img src="./octocat.png" alt="Octocat">
 
